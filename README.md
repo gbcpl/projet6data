@@ -47,7 +47,7 @@ Ce projet consiste à analyser les données d'une boutique de vins en ligne afin
 
 ## Compétences développées
 
-Python · Pandas · Nettoyage des données · Jointures SQL-like avec Pandas · Statistiques descriptives · Détection des valeurs atypiques · Analyse commerciale · Datavisualisation · Qualité des données.
+Python - Pandas - Nettoyage des données - Jointures SQL-like avec Pandas - Statistiques descriptives - Détection des valeurs atypiques - Analyse commerciale - Datavisualisation - Qualité des données.
 
 ## Conclusion
 
@@ -57,5 +57,9 @@ Il souligne l'importance de la qualité des données pour fiabiliser les analyse
 
 ---
 
-**Domaine :** e-commerce et analyse commerciale  
+**Domaine** : e-commerce et gestion commerciale
+**Langage** : Python
+**Environnement** : Jupyter Notebook
+**Outils principaux** : Pandas, NumPy, Plotly Express, Seaborn
+**Type de projet** : formation Data Analyst
 **Dépôt GitHub :** [gbcpl/projet6data](https://github.com/gbcpl/projet6data)

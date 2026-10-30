@@ -57,14 +57,9 @@ Il souligne l'importance de la qualité des données pour fiabiliser les analyse
 
 ---
 
-**Domaine** : e-commerce et gestion commerciale
-
-**Langage** : Python
-
-**Environnement** : Jupyter Notebook
-
-**Outils principaux** : Pandas, NumPy, Plotly Express, Seaborn
-
-**Type de projet** : formation Data Analyst
-
+**Domaine :** e-commerce et gestion commerciale  
+**Langage :** Python  
+**Environnement :** Jupyter Notebook  
+**Outils principaux :** Pandas, NumPy, Plotly Express, Seaborn  
+**Type de projet :** formation Data Analyst  
 **Dépôt GitHub :** [gbcpl/projet6data](https://github.com/gbcpl/projet6data)
